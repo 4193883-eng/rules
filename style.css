@@ -1,0 +1,11 @@
+html{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color:rgba(245, 245, 220, 0.648);
+
+}
+button{
+    display:block;
+    margin-bottom: 15px;
+}
